@@ -37,3 +37,26 @@ The News Article Management System is a web application that allows users to inp
    $password = 'your_password'; // Database password
    $database = 'your_database'; // Database name
 
+## Usage
+1. Input News:
+
+- Navigate to the input form to add a new news article.
+- Fill in the required fields and submit the form.
+
+2. Edit News:
+
+- Click on an article to edit its details.
+- Update the fields and submit the form to save changes.
+
+3. Delete News:
+
+- Click on the delete button for an article to confirm deletion.
+- A confirmation prompt will appear; choose to delete or cancel.
+
+4. Manage Categories:
+
+- Navigate to the category management page to view, add, edit, or delete categories.
+
+5. View Notifications:
+
+- Toast notifications will appear at the bottom of the screen to inform you of the success or failure of your actions.
