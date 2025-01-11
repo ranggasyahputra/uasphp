@@ -1,0 +1,17 @@
+body {
+  font-family: verdana;
+  font-size: 11px;
+}
+
+input,
+textarea,
+select,
+option {
+  font-family: verdana;
+}
+
+back-btn-position {
+  position: absolute;
+  top: 0%;
+  right: 0%;
+}
